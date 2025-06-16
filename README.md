@@ -34,10 +34,11 @@ npm install
 ```bash
 npm start
 ```
-// ...existing content...
+
+
 
 ## Screenshot
 
-![Date Jumper](dateJumper.png)
+![Date Jumper](public/dateJumper.png)
 
-// ...existing content...
+
