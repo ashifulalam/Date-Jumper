@@ -1,6 +1,8 @@
 # Date Jumper🕰️
 
-An interactive React application that calculates future and past dates using a customizable counter with step controls.
+A minimal React app to calculate dates based on a customizable day counter.
+Change the step with a slider, adjust the count manually or with buttons, and instantly see the date offset from June 16, 2025. Clean UI with reset functionality.
+
 
 ## 🛠️ Technologies Used
 
